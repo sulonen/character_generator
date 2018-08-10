@@ -1,0 +1,11 @@
+{
+  "name": "character_generator",
+  "version": "0.0.1",
+  "description": "RPG Character Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "MIT"
+}
